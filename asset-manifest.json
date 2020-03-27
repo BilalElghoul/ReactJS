@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BilalElghoul/ReactJS/static/css/main.7ddc5b72.chunk.css",
+    "main.js": "/BilalElghoul/ReactJS/static/js/main.79001d98.chunk.js",
+    "main.js.map": "/BilalElghoul/ReactJS/static/js/main.79001d98.chunk.js.map",
+    "runtime-main.js": "/BilalElghoul/ReactJS/static/js/runtime-main.b36097b2.js",
+    "runtime-main.js.map": "/BilalElghoul/ReactJS/static/js/runtime-main.b36097b2.js.map",
+    "static/js/2.a29589f1.chunk.js": "/BilalElghoul/ReactJS/static/js/2.a29589f1.chunk.js",
+    "static/js/2.a29589f1.chunk.js.map": "/BilalElghoul/ReactJS/static/js/2.a29589f1.chunk.js.map",
+    "index.html": "/BilalElghoul/ReactJS/index.html",
+    "precache-manifest.89fb2c0883fd025649aac09e812a4506.js": "/BilalElghoul/ReactJS/precache-manifest.89fb2c0883fd025649aac09e812a4506.js",
+    "service-worker.js": "/BilalElghoul/ReactJS/service-worker.js",
+    "static/css/main.7ddc5b72.chunk.css.map": "/BilalElghoul/ReactJS/static/css/main.7ddc5b72.chunk.css.map",
+    "static/js/2.a29589f1.chunk.js.LICENSE.txt": "/BilalElghoul/ReactJS/static/js/2.a29589f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b36097b2.js",
+    "static/js/2.a29589f1.chunk.js",
+    "static/css/main.7ddc5b72.chunk.css",
+    "static/js/main.79001d98.chunk.js"
+  ]
+}

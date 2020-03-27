@@ -1,0 +1,136 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fa fa-chain fa-2x",
+      "title": "Links",
+      "body": "Lorem ipsum 1 dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fa fa-bolt fa-2x",
+      "title": "Actions",
+      "body": "Lorem ipsum  2  dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fa fa-tachometer fa-2x",
+      "title": "Dashboard",
+      "body": "Lorem ipsum 3 dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "images/Portfolio/portfolio-img1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "images/Portfolio/portfolio-img2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "images/Portfolio/portfolio-img3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "images/Portfolio/portfolio-img5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "images/Portfolio/portfolio-img6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 8,
+      "image": "images/Portfolio/portfolio-img8.jpg"
+    }
+  ],
+
+
+  "profile" : 
+    {
+      "info" : [
+        {
+          "id" : 1,
+          "label" : "Name",
+          "description" : "Bilal ElGHOUL"
+        },
+        {
+          "id" : 2,
+          "label" : "Birthday",
+          "description" : "25/07/1995"
+        },
+        {
+          "id" : 3,
+          "label" : "Address",
+          "description" : "Tanger Aouama"
+        },
+        {
+          "id" : 4,
+          "label" : "Phone",
+          "description" : "4444 5555 6666"
+        },
+        {
+          "id" : 5,
+          "label" : "Email",
+          "description" : "bilal@elghoul.com"
+        },
+        {
+          "id" : 6,
+          "label" : "Website",
+          "description" : "www.bilaltec.com"
+        }
+      ],
+    
+    "skills" : [
+      {
+        "id" : 1,
+        "title" : "React JS",
+        "percent": "100%"
+      },
+      {
+        "id" : 2,
+        "title" : "Laravel PHP",
+        "percent": "90%"
+      },
+      {
+        "id" : 3,
+        "title" : "Python",
+        "percent": "50%"
+      }
+    
+    ]
+  }
+  ,
+
+
+  "social": [
+    {
+      "id": 1,
+      "icon": "icon fa fa-facebook fa-lg",
+      "title": "Follow Me on",
+      "body": "Social Facebook"
+    },
+    {
+      "id": 2,
+      "icon": "icon fa fa-twitter fa-lg",
+      "title": "Tweet Me on",
+      "body": "Social twitter"
+    },
+    {
+      "id": 3,
+      "icon": "icon fa fa-pinterest fa-lg",
+      "title": "Pin Me on",
+      "body": "Social Pinterest"
+    }
+  ]
+}
