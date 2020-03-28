@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom"
 import "./style.css";
 
 const About = () => {
@@ -12,7 +13,7 @@ const About = () => {
           <h4 className="info-dir">Creative Director</h4>
           <p className="info-desc">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim est
-            <a href="#">explicabo</a> maxime quibusdam quaerat nihil aliquid
+            <Link to="#">explicabo</Link> maxime quibusdam quaerat nihil aliquid
             aperiam deleniti, repellendus dolorum. Possimus nisi cupiditate ad
             veritatis?
           </p>
