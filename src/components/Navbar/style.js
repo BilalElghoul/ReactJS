@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 // ===============================
 //         Navbar Styles
@@ -16,9 +16,9 @@ export const NavbarSection = styled.div`
 export const Logo = styled.div`
   width: 50%;
   float: left;
-  @media (max-width : 991px) {
-      width: 100%;
-      float: none;
+  @media (max-width: 991px) {
+    width: 100%;
+    float: none;
   }
 `;
 
@@ -32,19 +32,17 @@ export const UlList = styled.ul`
   float: left;
   list-style: none;
   padding: 0;
-  @media(max-width : 991px) {
-      width: 100%;
-      float: none;
-      margin-top: 20px;
-      display: none;
-
-    
+  @media (max-width: 991px) {
+    width: 100%;
+    float: none;
+    margin-top: 20px;
+    display: none;
   }
 `;
 
 export const ListItem = styled.li`
   display: inline-block;
-  @media(max-width : 991px) {
+  @media (max-width: 991px) {
     display: block;
     text-align: center;
   }
@@ -60,7 +58,7 @@ export const Anchor = styled.a`
     color: #eb5424;
   }
 `;
-export const LinkNew = styled(Link)`
+export const LinkNew = styled(NavLink)`
   display: block;
   color: #222;
   text-decoration: none;

@@ -1,30 +1,46 @@
-import React from 'react';
+import React from "react";
 
-import { NavbarSection , Logo , LogoText , UlList , ListItem , Anchor , LinkNew } from './style';
+import {
+  NavbarSection,
+  Logo,
+  LogoText,
+  UlList,
+  ListItem,
+  Anchor,
+  LinkNew
+} from "./style";
 
-
-const Navbar =() => {
+const Navbar = () => {
   return (
     <NavbarSection>
-        
-        <div className="container">
-            
-            <Logo>
-                <LogoText>Ultra Profile</LogoText>
-            </Logo>
-            
-            <UlList>
-                <ListItem><LinkNew to="/">Home</LinkNew></ListItem>
-                <ListItem><Anchor>Work</Anchor></ListItem>
-                <ListItem><Anchor>Portfolio</Anchor></ListItem>
-                <ListItem><Anchor>Resume</Anchor></ListItem>
-                <ListItem><Anchor>About</Anchor></ListItem>
-                <ListItem><LinkNew to="/contact">Contact</LinkNew></ListItem>
-            </UlList>
-            
-        </div>
+      <div className="container">
+        <Logo>
+          <LogoText>Ultra Profile</LogoText>
+        </Logo>
+
+        <UlList>
+          <ListItem>
+            <LinkNew to="/">Home</LinkNew>
+          </ListItem>
+          <ListItem>
+            <Anchor>Work</Anchor>
+          </ListItem>
+          <ListItem>
+            <Anchor>Portfolio</Anchor>
+          </ListItem>
+          <ListItem>
+            <Anchor>Resume</Anchor>
+          </ListItem>
+          <ListItem>
+            <Anchor>About</Anchor>
+          </ListItem>
+          <ListItem>
+            <LinkNew to="/contact">Contact</LinkNew>
+          </ListItem>
+        </UlList>
+      </div>
     </NavbarSection>
   );
-}
+};
 
 export default Navbar;
