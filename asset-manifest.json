@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/BilalElghoul/ReactJS/static/css/main.7ddc5b72.chunk.css",
-    "main.js": "/BilalElghoul/ReactJS/static/js/main.efdacc3e.chunk.js",
-    "main.js.map": "/BilalElghoul/ReactJS/static/js/main.efdacc3e.chunk.js.map",
+    "main.js": "/BilalElghoul/ReactJS/static/js/main.5d1cef98.chunk.js",
+    "main.js.map": "/BilalElghoul/ReactJS/static/js/main.5d1cef98.chunk.js.map",
     "runtime-main.js": "/BilalElghoul/ReactJS/static/js/runtime-main.b36097b2.js",
     "runtime-main.js.map": "/BilalElghoul/ReactJS/static/js/runtime-main.b36097b2.js.map",
-    "static/js/2.fe94e873.chunk.js": "/BilalElghoul/ReactJS/static/js/2.fe94e873.chunk.js",
-    "static/js/2.fe94e873.chunk.js.map": "/BilalElghoul/ReactJS/static/js/2.fe94e873.chunk.js.map",
+    "static/js/2.7ed87711.chunk.js": "/BilalElghoul/ReactJS/static/js/2.7ed87711.chunk.js",
+    "static/js/2.7ed87711.chunk.js.map": "/BilalElghoul/ReactJS/static/js/2.7ed87711.chunk.js.map",
     "index.html": "/BilalElghoul/ReactJS/index.html",
-    "precache-manifest.a7913d62cf2c7977d7f5871f9456a5f7.js": "/BilalElghoul/ReactJS/precache-manifest.a7913d62cf2c7977d7f5871f9456a5f7.js",
+    "precache-manifest.5212c8d0c5f325b33f0bde644f2a40c5.js": "/BilalElghoul/ReactJS/precache-manifest.5212c8d0c5f325b33f0bde644f2a40c5.js",
     "service-worker.js": "/BilalElghoul/ReactJS/service-worker.js",
     "static/css/main.7ddc5b72.chunk.css.map": "/BilalElghoul/ReactJS/static/css/main.7ddc5b72.chunk.css.map",
-    "static/js/2.fe94e873.chunk.js.LICENSE.txt": "/BilalElghoul/ReactJS/static/js/2.fe94e873.chunk.js.LICENSE.txt"
+    "static/js/2.7ed87711.chunk.js.LICENSE.txt": "/BilalElghoul/ReactJS/static/js/2.7ed87711.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b36097b2.js",
-    "static/js/2.fe94e873.chunk.js",
+    "static/js/2.7ed87711.chunk.js",
     "static/css/main.7ddc5b72.chunk.css",
-    "static/js/main.efdacc3e.chunk.js"
+    "static/js/main.5d1cef98.chunk.js"
   ]
 }
